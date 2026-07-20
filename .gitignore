@@ -6,7 +6,7 @@ out/
 ### Kotlin ###
 .kotlin
 .idea/
-.iml
+*.iml
 
 ### Eclipse ###
 .apt_generated
